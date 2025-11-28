@@ -108,6 +108,11 @@ You can now preview SVG images directly rather than only seeing XML text. As wit
 
 There are quite a lot, please check the [Changelogs](/docs/changelogs/) for details.
 
+:::warning
+When upgrading from 2.x to 3.0, please overwrite installation and do not retain the old version. Since the data source is the same, starting the earlier version after the update will cause data loss.
+:::
+
+
 ### 9. Roadmap
 
 With 3.0 officially released, we'll resume rapid iteration, about 1–3 releases per week—focusing on fixing and optimizing long‑standing issues, including some performance problems.
