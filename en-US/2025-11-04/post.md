@@ -7,6 +7,8 @@ hide_table_of_contents: false
 
 Hello! After four months of development and two months of beta testing, we're excited to officially release Reqable 3.0 today. Here's a rundown of what's new.
 
+<!--truncate-->
+
 ### 1. From license keys to membership
 
 Starting with 3.0, Reqable supports cloud data storage and multi‑device sync, so we've rebuilt our membership system. We've moved from license‑key activation to account‑based membership. **Professional Edition users can migrate their entitlements to the new Premium membership at no extra cost, and Community Edition users can register for the free Basic.** From now on, your email and password are your login credentials, and cloud data syncs using your account as the identity.
